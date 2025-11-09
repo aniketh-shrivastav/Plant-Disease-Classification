@@ -1,0 +1,8 @@
+numpy
+scikit-learn
+opencv-python
+scikit-image
+pandas
+matplotlib
+joblib
+tqdm
